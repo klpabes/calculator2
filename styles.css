@@ -46,7 +46,7 @@ button {
     border-radius: 1rem;
 }
 
-.btn-operator {
+.btn-operator, .btn-equals, .btn-period {
     background-color: orange;
 }
 
